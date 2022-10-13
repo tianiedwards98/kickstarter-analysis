@@ -17,7 +17,7 @@ After watching the tutorial in the hint a couple times I realized the the first 
 ![Graph](https://github.com/tianiedwards98/kickstarter-analysis/blob/main/resources/Image%2010-13-22%20at%2011.48%20AM.jpeg?raw=true)
 
 ## Results:
-	I can conclude that there were a lot more successful outcomes in the theater category than were failed overall. I can also conclude that theater is very popular in summer months like May and June. For the Goal Outcomes I can conclude the lower goal amounts were more successful than the goal amounts that were higher around the 45000 or more amounts.
+  I can conclude that there were a lot more successful outcomes in the theater category than were failed overall. I can also conclude that theater is very popular in summer months like May and June. For the Goal Outcomes I can conclude the lower goal amounts were more successful than the goal amounts that were higher around the 45000 or more amounts.
   
   ![Graph](https://github.com/tianiedwards98/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png?raw=true)
   ![Graph](https://github.com/tianiedwards98/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png?raw=true)
