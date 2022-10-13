@@ -1,7 +1,7 @@
 # Kickstarter Analysis Project
 
 ## Overview of Project:
-This project showcases how the different campaigns faired with their fundraising goals. 
+This project showcases how the different in the category did with their goals and success rates 
 
 ## Analysis:
 **Theater Outcomes:**
